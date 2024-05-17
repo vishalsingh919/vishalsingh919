@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 
 - 🔭 I’m currently XTeam Consultants India Pvt. Ltd.
-- <p>Magento DEVELOPER</p>
-- 💬 Ask me anything about Flutter 
+- <p>Magento Developer</p>
+- 💬 Ask me anything about Magento Development 
 - 📫 How to reach me: mailto:vishalgzb09@gmail.com
 - 😄 My website: wating
 - ⚡ Fun fact: I'm comming to teen
