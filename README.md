@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 
-- 🔭 I’m currently XTeam Consultants India Pvt. Ltd.
+- 🔭 I’m currently working at XTeam Consultants India Pvt. Ltd.
 - <p>Magento Developer</p>
 - 💬 Ask me anything about Magento Development 
 - 📫 How to reach me: mailto:vishalgzb09@gmail.com
